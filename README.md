@@ -116,7 +116,7 @@ By analyzing demand and availability trends, organizations can improve inventory
 
   Average Availability per Day
 
-  Average Daily Loss
+  Average Loss Per Day
 
   Total Supply Shortage
 
@@ -129,7 +129,7 @@ By analyzing demand and availability trends, organizations can improve inventory
 
   A card visual was used to represent Average Demand Per Day
 
-![Image](https://github.com/user-attachments/assets/bdfa7269-bdb5-4fc7-a757-1d2bfcfd4ada)
+  ![Image](https://github.com/user-attachments/assets/f9e8145e-1fff-42a7-a1be-c0874f377f40)
 
 - step 10 : New measure was created to find Average Availability Per Day 
 
@@ -140,7 +140,7 @@ By analyzing demand and availability trends, organizations can improve inventory
 
   A card visual was used to represent Average Availability Per Day
 
-  ![Image](https://github.com/user-attachments/assets/2293fd49-8663-489d-86f6-f950ee219d6c)
+   ![Image](https://github.com/user-attachments/assets/61bf8946-f83c-44cc-93a7-f7ac08c69186)
 
 
 - step 11 : New measure was created to find Total Supply Shortage
@@ -151,7 +151,7 @@ By analyzing demand and availability trends, organizations can improve inventory
 
   A card visual was used to represent Total Supply Shortage
           
-![Image](https://github.com/user-attachments/assets/2293fd49-8663-489d-86f6-f950ee219d6c)
+  [Image](https://github.com/user-attachments/assets/1245288c-a227-42c1-a02f-e7524576d0b5)
 
 - step 12 : New measure was created to find Total Profit
 
@@ -161,7 +161,7 @@ By analyzing demand and availability trends, organizations can improve inventory
 
   A card visual was used to represent Total Profit
 
-  ![Image](https://github.com/user-attachments/assets/2293fd49-8663-489d-86f6-f950ee219d6c)
+  ![Image](https://github.com/user-attachments/assets/2a0f70b5-3d34-42b1-a9ea-329c0c20d982)
 
 - step 13 : New measure was created to find Total Loss
 
@@ -171,7 +171,7 @@ By analyzing demand and availability trends, organizations can improve inventory
 
   A card visual was used to represent Total Loss
 
-  ![Image](https://github.com/user-attachments/assets/2293fd49-8663-489d-86f6-f950ee219d6c)
+  ![Image](https://github.com/user-attachments/assets/6e2d9799-41bf-48ee-924e-38b70866da29)
 
 
 - step 14 : New measure was created to find Average Loss Per Day
@@ -182,7 +182,7 @@ By analyzing demand and availability trends, organizations can improve inventory
 
   A card visual was used to represent Average Loss Per Day
 
-  ![Image](https://github.com/user-attachments/assets/2293fd49-8663-489d-86f6-f950ee219d6c)
+ ![Image](https://github.com/user-attachments/assets/1b2269ef-4995-48df-975f-173692a45a76)
 
      
 - step 15 : The report was then published to Power BI Service.
@@ -193,7 +193,8 @@ By analyzing demand and availability trends, organizations can improve inventory
 # Snapshot of Dashboard (Power BI Service)
 
 <img width="1908" height="915" alt="Image" src="https://github.com/user-attachments/assets/40311a2d-0230-44c6-8cf5-27a87bfcdd19" />
-1
+
+
 
 
 
@@ -224,7 +225,7 @@ In many cases, the average product demand is higher than the available inventory
 The dashboard identifies situations where product availability cannot meet demand, resulting in lost sales opportunities.
 
 
- ### [3] AFinancial Impact
+ ### [3] A Financial Impact
 
   Supply shortages contribute to financial losses for the business when demand cannot be fulfilled.
 
@@ -237,3 +238,4 @@ SQL Server (SSMS)
 MySQL Workbench
 DAX
 CSV Dataset
+
