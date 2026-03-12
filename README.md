@@ -1,6 +1,6 @@
 # Retail-Inventory-Intelligence-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+### Dashboard Link : [https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection](https://app.powerbi.com/links/NJ0kLlQ-JO?ctid=7f0a8e90-4ba3-4cc7-b920-c1f6074e28a2&pbi_source=linkShare)
 
 ## Problem Statement
 
